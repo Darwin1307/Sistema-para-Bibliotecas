@@ -10,7 +10,14 @@ Base para Sistema de Registro para Bibliotecas, Incluye Api, Base de Datos en Sq
 
 ## Instalación
 
+Descargar los archvivos "`api.php`","`ui.php`" y "`biblioteca.sql`" de la sección releases de este mismo repositorio o directo de:
+
+
+
+
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/178a0bef-92d8-4871-87cc-90f6a41858c9" />
+
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/444cce2f-4897-45aa-bfb9-c6aa1c510350" />
 
 ## Características
 
