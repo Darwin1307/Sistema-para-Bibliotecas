@@ -10,8 +10,7 @@ Base para Sistema de Registro para Bibliotecas, Incluye Api, Base de Datos en Sq
 
 ## Instalación
 
-Descargar los archvivos "`api.php`","`ui.php`" y "`biblioteca.sql`" de la sección releases de este mismo repositorio o directo de:
-
+Descargar los archivos "`api.php`","`ui.php`" y "`biblioteca.sql`" de la sección releases de este mismo repositorio o directo de: https://github.com/Darwin1307/Sistema-para-Bibliotecas/archive/refs/tags/1.0.0.zip
 
 
 
