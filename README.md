@@ -29,7 +29,7 @@ Base para Sistema de Registro para Bibliotecas, Incluye Api, Base de Datos en Sq
 
 </br>
 
-- Luego de esto se debe hostear el server local desde xampp activando apache y mysql desde el panel de control
+- Luego de esto se debe hostear el server local desde Xampp iniciando apache y mysql desde el panel de control
 
 <p align="center"><img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/444cce2f-4897-45aa-bfb9-c6aa1c510350" /></p>
 
