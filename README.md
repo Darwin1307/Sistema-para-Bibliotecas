@@ -35,17 +35,25 @@ Base para Sistema de Registro para Bibliotecas, Incluye Api, Base de Datos en Sq
 
 </br>
 
+- Desde aqui se debe abrir phpMyAdmin desde el navegador a través de la url 'http://localhost/phpmyadmin' y crear una base de datos con el nombre "`biblioteca.sql`"
+
 </br>
 
-- Desde aqui se debe abrir phpMyAdmin desde el navegador a través de la url 'http://localhost/phpmyadmin' e importar la base de datos del archivo "`biblioteca.sql`"
+<p align="center"><img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/b007e046-2110-4ba3-8684-d6948ad65c2a" /></p>
+
+</br>
+
+- Posteriormente, desde la base de datos acabada de crear, importar la base de datos del archivo "`biblioteca.sql`"
+
+</br>
 
 <p align="center"><img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/7fa58968-fa36-4f15-bba6-d6badfd80e30" /></p>
 
 </br>
 
-</br>
-
 - Con la base de datos importada ya podemos ejecutar el sistema a partir de la url http://localhost/ui.php
+
+</br>
 
 <p align="center"><img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/44738dc6-a930-4cc4-8703-c18cc5d6ab3d" /></p>
 
