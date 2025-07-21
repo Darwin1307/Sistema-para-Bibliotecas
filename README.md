@@ -10,13 +10,46 @@ Base para Sistema de Registro para Bibliotecas, Incluye Api, Base de Datos en Sq
 
 ## Instalación
 
-Descargar los archivos "`api.php`","`ui.php`" y "`biblioteca.sql`" de la sección releases de este mismo repositorio o directo de: https://github.com/Darwin1307/Sistema-para-Bibliotecas/archive/refs/tags/1.0.0.zip
+- Descargar los archivos "`api.php`","`ui.php`" y "`biblioteca.sql`" de la sección releases de este mismo repositorio o directo de: https://github.com/Darwin1307/Sistema-para-Bibliotecas/archive/refs/tags/1.0.0.zip
 
+</br>
 
+- Instalar Xampp o algún otro software parecido. Se puede instalar xampp desde el siguiente link: https://www.apachefriends.org/es/index.html
+  
+</br>
 
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/178a0bef-92d8-4871-87cc-90f6a41858c9" />
+- Una vez instalado el programa poner los archivos "`api.php`","`ui.php`" y "`biblioteca.sql`" en la carpeta htdocs del programa xampp quedando de la siguiente forma:
+
+</br>
+
+<center><img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/178a0bef-92d8-4871-87cc-90f6a41858c9" /></center>
+
+> [!NOTE]
+> La ruta default donde comúnmente esta la carpeta htdocs es: C:\xampp\htdocs
+
+</br>
+
+</br>
+
+- Luego de esto se debe hostear el server local desde xampp activando apache y mysql
 
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/444cce2f-4897-45aa-bfb9-c6aa1c510350" />
+
+</br>
+
+</br>
+
+- Desde aqui se debe abrir phpMyAdmin desde el navegador a través de la url 'http://localhost/phpmyadmin' e importar la base de datos del archivo "`biblioteca.sql`"
+
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/7fa58968-fa36-4f15-bba6-d6badfd80e30" />
+
+</br>
+
+</br>
+
+- Con la base de datos importada ya podemos ejecutar el sistema a partir de la url http://localhost/ui.php
+
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/44738dc6-a930-4cc4-8703-c18cc5d6ab3d" />
 
 ## Características
 
