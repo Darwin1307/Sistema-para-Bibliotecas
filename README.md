@@ -22,7 +22,7 @@ Base para Sistema de Registro para Bibliotecas, Incluye Api, Base de Datos en Sq
 
 </br>
 
-<center><img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/178a0bef-92d8-4871-87cc-90f6a41858c9" /></center>
+<p align="center"><img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/178a0bef-92d8-4871-87cc-90f6a41858c9" /></p>
 
 > [!NOTE]
 > La ruta default donde comúnmente esta la carpeta htdocs es: C:\xampp\htdocs
@@ -31,7 +31,7 @@ Base para Sistema de Registro para Bibliotecas, Incluye Api, Base de Datos en Sq
 
 - Luego de esto se debe hostear el server local desde xampp activando apache y mysql
 
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/444cce2f-4897-45aa-bfb9-c6aa1c510350" />
+<p align="center"><img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/444cce2f-4897-45aa-bfb9-c6aa1c510350" /></p>
 
 </br>
 
@@ -39,7 +39,7 @@ Base para Sistema de Registro para Bibliotecas, Incluye Api, Base de Datos en Sq
 
 - Desde aqui se debe abrir phpMyAdmin desde el navegador a través de la url 'http://localhost/phpmyadmin' e importar la base de datos del archivo "`biblioteca.sql`"
 
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/7fa58968-fa36-4f15-bba6-d6badfd80e30" />
+<p align="center"><img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/7fa58968-fa36-4f15-bba6-d6badfd80e30" /></p>
 
 </br>
 
@@ -47,7 +47,7 @@ Base para Sistema de Registro para Bibliotecas, Incluye Api, Base de Datos en Sq
 
 - Con la base de datos importada ya podemos ejecutar el sistema a partir de la url http://localhost/ui.php
 
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/44738dc6-a930-4cc4-8703-c18cc5d6ab3d" />
+<p align="center"><img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/44738dc6-a930-4cc4-8703-c18cc5d6ab3d" /></p>
 
 ## Características
 
