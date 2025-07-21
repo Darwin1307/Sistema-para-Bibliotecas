@@ -36,7 +36,31 @@ Este proyecto contiene las siguientes características:
 
 ## Configuración
 
+Si se quiere adaptar el proyecto a otros sistemas, se deben editar las siguientes lineas de código al fondo  del archivo "`api.php`":
 
+
+  `$config = new Config([
+  
+        'username' => 'xxx',
+        
+        'password' => 'xxx',
+        
+        'database' => 'xxx',
+        
+    ]);`
+
+
+Estos son algunas de las opciones de configuración y sus valores default entre brackets:
+
+- "driver": `mysql`, `pgsql`, `sqlsrv` o `sqlite` (`mysql`)
+- "address": Hostname (o filename) del server de la base de datos (`localhost`)
+- "port": Puerto TCP del server de la base de datos (default = driver default)
+- "username": Nombre del usuario conectandose a la base de datos (default='root')
+- "password": Contraseña del usuario conectandose a la base de datos (no default)
+- "database": Base de datos a la que el usuario se va a conectar (no default)
+- "command": Extra SQL para iniciar la conexión con la base de datos (none)
+- "tables": Lista de tablas a mostrar, separado por comas (default='todas las tablas')
+- "mapping": Lista de tablas/columnas a mapear, separado por comas (no mapping)
 
 ## Documentación Relacionada
 
